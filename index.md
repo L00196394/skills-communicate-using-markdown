@@ -10,9 +10,10 @@
 
 ### Image above is of a blue cat.
 
-
-
-
+```
+git init
+initialized empty Git reprository
+```
 
 
 
@@ -40,4 +41,5 @@
 
 
 Added Headers
+
 
